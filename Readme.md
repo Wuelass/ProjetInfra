@@ -14,6 +14,7 @@ Lien vers le swisstransfer : [Télécharger le projet](https://www.swisstransfer
 
 Les fichiers du projet se trouvent dans le répertoire `/web_app/` sur votre VM :
 
+```bash
 /web_app/
 ├── docker-compose.yml
 └── apache/
@@ -21,6 +22,7 @@ Les fichiers du projet se trouvent dans le répertoire `/web_app/` sur votre VM 
 └── conf.d/
 ├── wordpress.conf
 └── wekan.conf
+```
 
 ## 3. Lancement des Applications (Docker Compose)
 
