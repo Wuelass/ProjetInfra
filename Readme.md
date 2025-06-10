@@ -17,10 +17,10 @@ Les fichiers du projet se trouvent dans le répertoire `/web_app/` sur votre VM 
 /web_app/
 ├── docker-compose.yml
 └── apache/
-    ├── httpd.conf
-    └── conf.d/
-        ├── wordpress.conf
-        └── wekan.conf
+├── httpd.conf
+└── conf.d/
+├── wordpress.conf
+└── wekan.conf
 
 ## 3. Lancement des Applications (Docker Compose)
 
