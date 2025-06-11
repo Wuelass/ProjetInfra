@@ -2,7 +2,7 @@
 
 Ce projet déploie WordPress et Wekan via Docker Compose, avec Apache comme reverse proxy.
 
-Lien vers le swisstransfer : [Télécharger le projet](https://www.swisstransfer.com/d/331d3411-fd0c-4649-9d7d-f4d0b085bdaf)
+Lien vers le swisstransfer : [Télécharger le projet](https://www.swisstransfer.com/d/98ffc530-6888-4519-abeb-6e2dae9f3b00)
 
 ## 1. Prérequis & Accès VM
 
